@@ -1,0 +1,2 @@
+# Core dependencies for CxOne Scan Monster
+requests>=2.28.0
